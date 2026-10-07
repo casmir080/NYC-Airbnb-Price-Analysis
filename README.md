@@ -20,7 +20,9 @@ Google Colab
 Pandas
 Matplotlib
 Seaborn
+
 📊 Key Insights
+
 Manhattan has the highest concentration of listings and the highest average prices.
 Entire home/apartment listings command significantly higher prices than private/shared rooms.
 Most listings fall under $200; outliers above $1,000 were excluded.
@@ -40,4 +42,9 @@ Future Enhancements
 
 Add geospatial maps (using Folium or Plotly)
 Apply machine learning to predict Airbnb prices
-Explore seasonal or temporal price patterns Author Imeobong Tom Monday GitHub Portfolio | Google Colab Notebooks
+Explore seasonal or temporal price patterns 
+
+Author 
+
+Udeme, Casmir Mbet
+GitHub Portfolio | Google Colab Notebooks
